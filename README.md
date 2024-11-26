@@ -4,7 +4,7 @@ A Python script that identifies GitHub users you follow but who do not follow yo
 
 ## Features
 
-- Fetches all followers and following using GitHub API with authentication.
+- Fetches all followers and following using the GitHub API with authentication.
 - Identifies users you follow who do not follow you back.
 - Outputs a list of unfollowers as clickable GitHub profile links.
 
@@ -43,7 +43,7 @@ A Python script that identifies GitHub users you follow but who do not follow yo
 
 ```bash
 Enter your GitHub username: oluizfernando
-Enter your Personal Access Token (PAT): **********
+Enter your Personal Access Token: **********
 https://github.com/user1
 https://github.com/user2
 https://github.com/user3
